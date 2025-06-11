@@ -50,6 +50,7 @@ CREATE TABLE `trip` (
 
 ## 🧪 Demo
 
-![Trip Form Demo](demo.gif)
+![Trip Form Demo](./demo.gif)
+
 
 
