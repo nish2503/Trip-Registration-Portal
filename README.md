@@ -48,4 +48,8 @@ CREATE TABLE `trip` (
   PRIMARY KEY (`sno`)
 );
 
+## 🧪 Demo
+
+![Trip Form Demo](demo.gif)
+
 
