@@ -27,6 +27,10 @@ vrindavan-trip-form/
 - **Database:** MySQL (via phpMyAdmin)
 - **Local Server:** XAMPP
 
+## 🧪 Demo
+
+![Trip Form Demo](./demo.gif)
+
 ## 🧪 How to Run Locally
 
 1. ✅ Install [XAMPP](https://www.apachefriends.org/index.html)
@@ -48,9 +52,7 @@ CREATE TABLE `trip` (
   PRIMARY KEY (`sno`)
 );
 
-## 🧪 Demo
 
-![Trip Form Demo](./demo.gif)
 
 
 
